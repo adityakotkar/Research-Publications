@@ -4,6 +4,6 @@ Machine Learning Method
 
 Access Link - https://ijsart.com/automated-web-attack-detection-using-machine-learning-techniques-49936
 
-3. Automated Web Attack Detection Using Machine Learning Techniques.
+2. Automated Web Attack Detection Using Machine Learning Techniques.
 
 Access Link - https://www.irjet.net/archives/V8/i3/IRJET-V8I372.pdf
